@@ -48,7 +48,7 @@ def load_faiss_index_and_jobs():
 
 def main():
     st.title("AI Resume Matcher")
-
+    
     uploaded_file = st.file_uploader("Upload your PDF resume", type=["pdf"])
     if uploaded_file is not None:
         with st.spinner("Extracting text from resume..."):
