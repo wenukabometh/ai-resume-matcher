@@ -10,12 +10,6 @@ Built with ❤️ using **Streamlit**, this app allows users to upload their res
 
 ![Upload Resume](assets/after%20uploading%20the%20CV.png)
 
-## 🔍 Demo
-
-👉 [Click here to try it live on Streamlit Cloud](https://your-streamlit-link.streamlit.app)
-
----
-
 ## 🚀 Key Features
 
 | Feature                            | Description                                                                |
