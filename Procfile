@@ -1,1 +1,1 @@
-web: streamlit run src/app.py --server.port=$PORT --server.enableCORS=false
+echo "web: streamlit run app.py --server.port=\$PORT --server.enableCORS=false" > Procfile
